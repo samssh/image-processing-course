@@ -1,2 +1,2 @@
 # image-processing-course
-Image processing lesson exercises with submissions
+Image processing course exercises with submissions
